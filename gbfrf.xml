@@ -272,5 +272,10 @@
     <name_en>Ultimate Bahamut</name_en>
     <level>200</level>
   </enemy>
+  <enemy>
+    <name_ja>アーカーシャ</name_ja>
+    <name_en>Akasha</name_en>
+    <level>200</level>
+  </enemy>
 </enemys>
 </EnemyCollection>
