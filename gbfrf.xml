@@ -159,16 +159,6 @@
     <level>100</level>
   </enemy>
   <enemy>
-    <name_ja>黄龍</name_ja>
-    <name_en>Huanglong</name_en>
-    <level>100</level>
-  </enemy>
-  <enemy>
-    <name_ja>黒麒麟</name_ja>
-    <name_en>Qilin</name_en>
-    <level>100</level>
-  </enemy>
-  <enemy>
     <name_ja>ローズクイーン</name_ja>
     <name_en>Rose Queen</name_en>
     <level>110</level>  
